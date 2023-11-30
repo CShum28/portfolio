@@ -30,8 +30,7 @@ const Portfolio = () => {
   ];
 
   return (
-    // <div className="flex flex-col items-center w-full h-fill pb-28">
-    <div className="h-screen">
+    <div className="h-fit">
       <div className="flex flex-col pt-28 items-center">
         <h1 className="text-4xl mb-4">Projects</h1>
         <p>Please check out a bit of my work!</p>
