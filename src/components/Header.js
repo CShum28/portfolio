@@ -14,7 +14,7 @@ const Header = ({ frontPageRef, aboutRef, portfolioRef, contactRef }) => {
         <span className="font-bold">Clement Shum</span>
       </div>
 
-      <div className="flex flex-row list-none pr-14">
+      <div className="flex flex-row list-none pr-14 font-semibold">
         <li
           className="hover:cursor-pointer"
           onClick={() => scrollToRef(frontPageRef)}
