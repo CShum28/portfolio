@@ -33,7 +33,7 @@ const Home = () => {
           <Skills className="w-full h-screen " />
         </div>
         <div ref={portfolioRef}>
-          <Portfolio className="w-full h-screen" />
+          <Portfolio className="w-full" />
         </div>
         <div ref={contactRef}>
           <Contact className="w-full h-screen " />
