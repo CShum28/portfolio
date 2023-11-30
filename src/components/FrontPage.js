@@ -9,7 +9,7 @@ const FrontPage = ({ portfolioRef }) => {
   };
 
   return (
-    <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4">
+    <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 text-center">
       <p className="text-6xl">Hey, I'm Clement Shum</p>
       <p className="text-xl my-5">
         I'm an aspiring Full Stack Developer committed to building intuitive and
